@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Paras Patel  
+# 👋 Hi, I'm Parass Patel  
 
 🎓 Electronics & VLSI Enthusiast | 💻 Open-Source Learner | ⚡ Future Chip Designer  
 
