@@ -1,90 +1,83 @@
-# 👋 Hi, I'm Paras Patel
+## 👋 Hi, I'm Paras Patel
 
-I'm an information and communication technology (ict) student currently pursuing a VLSI internship and building strong practical technical skills.
+I'm an **ICT student and VLSI Intern at Monk9 Tech**, passionate about semiconductor technology, digital systems, and real-world hardware design.
 
-I’m interested in understanding how **chips, hardware, and real-world systems** are designed, and I enjoy learning through **hands-on work, experimentation, and industry-oriented tools.**
+I enjoy working on **practical, hands-on learning**, exploring how **chips, embedded systems, and hardware-software integration** work in real products.
 
 ---
 
 ## 💼 Internship Experience
 
-### VLSI Intern — Monk9Tech  
+### VLSI Intern — Monk9 Tech  
 📍 Rajkot, Gujarat, India  
 
-- Currently working as a **VLSI Intern at Monk9 Tech**  
-- Learning and applying **VLSI fundamentals, digital logic, and CMOS concepts**  
-- Gaining exposure to **EDA tools, RTL basics, and VLSI design workflow**  
-- Working on **practical tasks and industry-oriented learning modules**  
-- Focused on bridging the gap between **theory and real-world chip design**
-
-- ## Core Concepts
-- VLSI basics  
-- Digital electronics fundamentals  
-- CMOS and logic design basics  
-- Problem-solving and logical thinking  
-- Cybersecurity fundamentals (introductory level)  
-
+- Working on **VLSI fundamentals, digital logic, and CMOS concepts**  
+- Learning the **VLSI design flow, RTL basics, and EDA tools**  
+- Performing **practical tasks and industry-oriented exercises**  
+- Focused on converting **theory into real-world chip design understanding**
 
 ---
 
-## Areas of Interest
-- VLSI and digital system fundamentals  
-- Semiconductor and chip design concepts  
-- Embedded systems and IoT (basics)  
-- Understanding system-level concepts  
-- Learning through internships and practical projects  
+## 🧠 Core Concepts
+- VLSI fundamentals  
+- Digital electronics  
+- CMOS & logic design  
+- Problem-solving and analytical thinking  
+- Introductory cybersecurity concepts  
 
 ---
 
-## Currently Learning
-- Internship-based technical and VLSI skills  
-- Git and version control workflows  
-- Writing clean and understandable code  
-- Basics of VLSI and system-level design concepts  
-- Linux and open-source engineering tools  
+## 🔍 Areas of Interest
+- VLSI & semiconductor design  
+- Digital and embedded systems  
+- Chip-level and system-level understanding  
+- Hardware-software interaction  
+- Industry-oriented technical learning  
 
 ---
 
-## Goals
-- Build strong technical fundamentals in electronics and VLSI  
-- Gain hands-on experience through internships and projects  
-- Improve problem-solving and logical thinking  
-- Grow towards working on real-world hardware and chip-level systems  
-- Develop myself into a skilled VLSI / ASIC design engineer  
+## 📚 Currently Learning
+- Practical VLSI skills through internship  
+- Git & GitHub workflows  
+- Linux and open-source tools  
+- RTL and system-level design basics  
+
+---
+
+## 🎯 Goals
+- Build strong fundamentals in electronics & VLSI  
+- Develop real-world projects and hardware solutions  
+- Strengthen problem-solving ability  
+- Grow into a skilled **VLSI / ASIC Design Engineer**
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming & Markup
+### Programming & HDL
 - C (Basics)  
 - Python  
 - Java  
 - PHP  
-- HTML  
-- CSS  
-- Verilog (Learning phase)  
+- HTML, CSS  
+- Verilog (Learning)
 
-### Databases
-- MySQL  
-- DBMS fundamentals
-
-- ## Hardware & Embedded
-- ESP32 microcontrollers  
-- Arduino IDE  
-- Internet of Things (IoT)  
+### Hardware & Embedded
+- ESP32  
+- Arduino  
+- IoT fundamentals  
 - Wireless sensor networks  
-
 
 ### Tools & Environment
 - Git & GitHub  
-- Linux (beginner level)  
-- Open-source VLSI tools (learning)  
+- Linux (Beginner)  
+- Open-source VLSI tools  
 
+---
 
-## 🤝 Connect With Me  
--  Linkdin: (www.linkedin.com/in/parass-karkar06) 
--  Email: (paraskarkar1@gmail.com)  
+## 🤝 Connect With Me
+- 🌐 LinkedIn: https://www.linkedin.com/in/parass-karkar06  
+- 📧 Email: paraskarkar1@gmail.com  
 
 ---
 
