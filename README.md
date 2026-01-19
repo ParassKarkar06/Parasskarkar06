@@ -18,7 +18,7 @@ I enjoy working on **practical, hands-on learning**, exploring how **chips, embe
 
 ---
 
-## 🧠 Core Concepts
+## Core Concepts
 - VLSI fundamentals  
 - Digital electronics  
 - CMOS & logic design  
@@ -27,7 +27,7 @@ I enjoy working on **practical, hands-on learning**, exploring how **chips, embe
 
 ---
 
-## 🔍 Areas of Interest
+## Areas of Interest
 - VLSI & semiconductor design  
 - Digital and embedded systems  
 - Chip-level and system-level understanding  
@@ -36,7 +36,7 @@ I enjoy working on **practical, hands-on learning**, exploring how **chips, embe
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Practical VLSI skills through internship  
 - Git & GitHub workflows  
 - Linux and open-source tools  
@@ -44,7 +44,7 @@ I enjoy working on **practical, hands-on learning**, exploring how **chips, embe
 
 ---
 
-## 🎯 Goals
+## Goals
 - Build strong fundamentals in electronics & VLSI  
 - Develop real-world projects and hardware solutions  
 - Strengthen problem-solving ability  
@@ -52,7 +52,7 @@ I enjoy working on **practical, hands-on learning**, exploring how **chips, embe
 
 ---
 
-## 💻 Technical Skills
+## 💻Technical Skills
 
 ### Programming & HDL
 - C (Basics)  
@@ -76,8 +76,8 @@ I enjoy working on **practical, hands-on learning**, exploring how **chips, embe
 ---
 
 ## 🤝 Connect With Me
-- 🌐 LinkedIn: https://www.linkedin.com/in/parass-karkar06  
-- 📧 Email: paraskarkar1@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/parass-karkar06  
+-  Email: paraskarkar1@gmail.com  
 
 ---
 
